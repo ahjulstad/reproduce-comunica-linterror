@@ -14,9 +14,6 @@ importers:
       '@comunica/utils-bindings-factory':
         specifier: ^4.0.2
         version: 4.0.2
-      '@types/jsonld':
-        specifier: ^1.5.15
-        version: 1.5.15
       jsonld:
         specifier: ^8.3.3
         version: 8.3.3(web-streams-polyfill@3.3.3)
@@ -48,6 +45,9 @@ importers:
       '@tailwindcss/typography':
         specifier: ^0.5.16
         version: 0.5.16(tailwindcss@3.4.17)
+      '@types/jsonld':
+        specifier: ^1.5.15
+        version: 1.5.15
       autoprefixer:
         specifier: ^10.4.20
         version: 10.4.20(postcss@8.5.1)
