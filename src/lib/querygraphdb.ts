@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { QueryEngine } from "@comunica/query-sparql";
 import { DataFactory } from "rdf-data-factory";
 import { BindingsFactory } from "@comunica/utils-bindings-factory";
